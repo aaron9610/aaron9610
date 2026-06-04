@@ -3,14 +3,13 @@
 
 <!-- **tyokyo320/tyokyo320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!-- <img align="right" width="180px" src="https://blog.tyokyo320.com/about/spyfamily.jpg" /> -->
-<img align="right" width="180px" src="https://blog.tyokyo320.com/about/EunheeHowdy.webp" />
+<!-- <img align="right" width="180px" src="https://blog.amoureux.me/about/spyfamily.jpg" /> -->
+<img align="right" width="180px" src="https://blog.amoureux.me/about/EunheeHowdy.webp" />
 
 A cloud infrastructure developer based in JP.
 
-- 🌱 I’m currently learning and sharing on [my blog](https://blog.tyokyo320.com), welcome~
+- 🌱 I’m currently learning and sharing on [my blog](https://blog.amoureux.me), welcome~
 - :globe_with_meridians: Chinese · Japanese · English
-- 📫 How to reach me: **contact@tyokyo320.com**
 
 ### Activity ⚡
 
