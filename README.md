@@ -1,7 +1,6 @@
+### Hi I'm Aaron 👋
 
-### Hi I'm tyokyo320 👋
-
-<!-- **tyokyo320/tyokyo320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **aaron9610/aaron9610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- <img align="right" width="180px" src="https://blog.amoureux.me/about/spyfamily.jpg" /> -->
 <img align="right" width="180px" src="https://blog.amoureux.me/about/EunheeHowdy.webp" />
@@ -14,8 +13,8 @@ A cloud infrastructure developer based in JP.
 ### Activity ⚡
 
 <p align="center"> 
-  <img src="https://github-readme-stats-tyokyo320.vercel.app/api?username=tyokyo320&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" alt="tyokyo320's github status"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyokyo320&theme=vue&layout=compact&hide_title=true"> -->
+  <img src="https://github-readme-stats-aaron9610.vercel.app/api?username=aaron9610&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" alt="aaron9610's github status"/>
+  <!-- <img src="https://github-readme-stats-aaron9610.vercel.app/api/top-langs/?username=aaron9610&theme=vue&layout=compact&hide_title=true"> -->
 </p>
 
 ### Technology Stack 🐾
@@ -32,6 +31,7 @@ A cloud infrastructure developer based in JP.
         <td align="right">Core</td>
         <td><img src="https://skillicons.dev/icons?i=go,py,cpp,ruby,ts,react,linux,bash&theme=light" height="35px"/></td>
       </tr>
+      <tr>
         <td align="right">Infrastructure</td>
         <td><img src="https://skillicons.dev/icons?i=kubernetes,docker,gcp,aws,azure,grafana,prometheus,nginx&theme=light" height="35px"/></td>
       </tr>
@@ -47,7 +47,7 @@ A cloud infrastructure developer based in JP.
 
 <p align="center">
   <a href="https://count.getloli.com/">
-    <img src="https://count.getloli.com/get/@tyokyo320?theme=rule34" alt="github.tyokyo320.readme">
+    <img src="https://count.getloli.com/get/@aaron9610?theme=rule34" alt="github.aaron9610.readme">
   </a>
 </p>
  -->
